@@ -1,3 +1,29 @@
+## Titulo del Proyecto
+
+Inventario de Naves Espaciales
+
+## Descripcion
+
+Este proyecto busca realizar las respectivas funciones de organizar, listar, agregar, actualizar y eliminar naves espaciales y/o vehiculos.
+
+## Requisitos
+
+- PHP 7.4 o superior
+- Composer instalado
+- MySQL
+- Laravel
+- Guzzle
+
+## Instalación
+
+1. Clona el repositorio: `git clone https://github.com/tu-usuario/tu-proyecto.git`
+2. Entra al directorio del proyecto: `cd tu-proyecto`
+3. Instala las dependencias: `composer install`
+4. Configura el archivo .env
+5. Ejecuta las migraciones de la base de datos: `php artisan migrate`
+6. Inicia el servidor de desarrollo: `php artisan serve`
+7. Accede a la aplicación en tu navegador: `http://localhost:8000`
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
